@@ -22,15 +22,15 @@ This is how you make a list, if you need one:
 
 
 ## User Flow:
-1. The user selects the language or accent he wants to learn.
-2. The AI starts by greetings in the selected accent.
-3. User repeats it and the AI gives instant feedback on how close it was 
-4. The user repeats till perfection.
+## 1. The user selects the language or accent he wants to learn.
+## 2. The AI starts by greetings in the selected accent.
+## 3. User repeats it and the AI gives instant feedback on how close it was 
+## 4. The user repeats till perfection.
 ## Users:
-1. Students for interviews
-2. Travelers to learn a local accent
-3. Voiceover artists
-4. Anyone improving accents at home
+## 1. Students for interviews
+## 2. Travelers to learn a local accent
+## 3. Voiceover artists
+## 4. Anyone improving accents at home
 
 Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
 
@@ -61,11 +61,11 @@ main()
 
 
 ## Data sources:
--> Uses Mozilla Commonvoice and OpenSLR
+## -> Uses Mozilla Commonvoice and OpenSLR
 ## AI techniques:
--> Uses speech recognition to detect what user said 
--> Uses accent classification models to comparre users accent to native accent
--> Uses speech generation to speak back in the correct accent for repitition
+## -> Uses speech recognition to detect what user said 
+## -> Uses accent classification models to comparre users accent to native accent
+## -> Uses speech generation to speak back in the correct accent for repitition
 
 Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
 If you need to use links, here's an example:
@@ -77,9 +77,9 @@ If you need to use links, here's an example:
 | Paragraph   | Text        |
 
 ## Problems:
-1. Hard to get high quality accent labelled data for every language
-2. Needs to support regional variations (American Southern English vs Mideastern English)
-3. Responsiveness must be fine-tuned
+## 1. Hard to get high quality accent labelled data for every language
+## 2. Needs to support regional variations (American Southern English vs Mideastern English)
+## 3. Responsiveness must be fine-tuned
 What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
 
 ## Accentify could add AI speech avatars to simulate conversation with different regional speakers. It could become part of online classrooms for pronounciation grading. Moreover, it could integrate with VR to create real and captivating training experiences. Eventually, Accentify could power professional style real-time accent coaching, making every global citizen feel at home, no matter where they are from or whom they are speaking to. 
@@ -87,10 +87,10 @@ What does your project _not_ solve? Which limitations and ethical considerations
 How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
 
 
-# Sources of Inspiration:
--> Speech models inspired by MozillaTTS and Whisper
--> Accent feedback techniques inspired by Google's Project Relate
--> Dataset contributions from Commonvoice and Multilingual linguistics on YouTube 
+## Sources of Inspiration:
+## -> Speech models inspired by MozillaTTS and Whisper
+## -> Accent feedback techniques inspired by Google's Project Relate
+## -> Dataset contributions from Commonvoice and Multilingual linguistics on YouTube 
 
 * list here the sources of inspiration 
 * do not use code, images, data etc. from others without permission
