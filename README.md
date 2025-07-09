@@ -6,8 +6,7 @@ Copy the template, paste it to your GitHub README and edit! -->
 
 Final project for the Building AI course
 
-## Summary
-## Personal AI speech tutor that helps users learn any accent or language around the globe. It guides your pronounciation,tone and rythm, giving immediate response. It is just like your accent coach. It builds confidence and fluency. It works with any language and lets you chooose any accent.
+## Summary Personal AI speech tutor that helps users learn any accent or language around the globe. It guides your pronounciation,tone and rythm, giving immediate response. It is just like your accent coach. It builds confidence and fluency. It works with any language and lets you chooose any accent.
 
 Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
 
