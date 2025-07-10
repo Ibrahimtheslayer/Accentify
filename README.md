@@ -24,11 +24,11 @@ Users:
 
 ## Data sources and AI methods
 Data sources:
--> Uses Mozilla Commonvoice and OpenSLR
+ 1. Uses Mozilla Commonvoice and OpenSLR
 AI techniques:
--> Uses speech recognition to detect what user said 
--> Uses accent classification models to comparre users accent to native accent
--> Uses speech generation to speak back in the correct accent for repitition
+ 1. Uses speech recognition to detect what user said 
+ 2. Uses accent classification models to comparre users accent to native accent
+ 3. Uses speech generation to speak back in the correct accent for repitition
 
 
 ## Challenges
@@ -43,8 +43,8 @@ Accentify could add AI speech avatars to simulate conversation with different re
 
 ## Acknowledgments
 Sources of Inspiration:
--> Speech models inspired by MozillaTTS and Whisper
--> Accent feedback techniques inspired by Google's Project Relate
--> Dataset contributions from Commonvoice and Multilingual linguistics on YouTube 
+ 1. Speech models inspired by MozillaTTS and Whisper
+ 2. Accent feedback techniques inspired by Google's Project Relate
+ 3. Dataset contributions from Commonvoice and Multilingual linguistics on YouTube 
  
 
